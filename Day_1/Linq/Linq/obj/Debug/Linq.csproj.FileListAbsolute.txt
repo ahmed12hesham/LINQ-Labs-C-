@@ -1,0 +1,16 @@
+E:\.NET ITI\.net C#\Day 7\Lab 7\Linq\Linq\bin\Debug\Linq.exe.config
+E:\.NET ITI\.net C#\Day 7\Lab 7\Linq\Linq\bin\Debug\Linq.exe
+E:\.NET ITI\.net C#\Day 7\Lab 7\Linq\Linq\bin\Debug\Linq.pdb
+E:\.NET ITI\.net C#\Day 7\Lab 7\Linq\Linq\obj\Debug\Linq.csproj.AssemblyReference.cache
+E:\.NET ITI\.net C#\Day 7\Lab 7\Linq\Linq\obj\Debug\Linq.csproj.SuggestedBindingRedirects.cache
+E:\.NET ITI\.net C#\Day 7\Lab 7\Linq\Linq\obj\Debug\Linq.csproj.CoreCompileInputs.cache
+E:\.NET ITI\.net C#\Day 7\Lab 7\Linq\Linq\obj\Debug\Linq.exe
+E:\.NET ITI\.net C#\Day 7\Lab 7\Linq\Linq\obj\Debug\Linq.pdb
+E:\ITI-Tasks-main\Linq && Entity Framework Labs\Lab 1\Linq\Linq\bin\Debug\Linq.exe.config
+E:\ITI-Tasks-main\Linq && Entity Framework Labs\Lab 1\Linq\Linq\bin\Debug\Linq.exe
+E:\ITI-Tasks-main\Linq && Entity Framework Labs\Lab 1\Linq\Linq\bin\Debug\Linq.pdb
+E:\ITI-Tasks-main\Linq && Entity Framework Labs\Lab 1\Linq\Linq\obj\Debug\Linq.csproj.AssemblyReference.cache
+E:\ITI-Tasks-main\Linq && Entity Framework Labs\Lab 1\Linq\Linq\obj\Debug\Linq.csproj.SuggestedBindingRedirects.cache
+E:\ITI-Tasks-main\Linq && Entity Framework Labs\Lab 1\Linq\Linq\obj\Debug\Linq.csproj.CoreCompileInputs.cache
+E:\ITI-Tasks-main\Linq && Entity Framework Labs\Lab 1\Linq\Linq\obj\Debug\Linq.exe
+E:\ITI-Tasks-main\Linq && Entity Framework Labs\Lab 1\Linq\Linq\obj\Debug\Linq.pdb
