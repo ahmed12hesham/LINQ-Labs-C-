@@ -1,0 +1,8 @@
+E:\ITI\Linq\testlab1\testlab1\bin\Debug\testlab1.exe.config
+E:\ITI\Linq\testlab1\testlab1\bin\Debug\testlab1.exe
+E:\ITI\Linq\testlab1\testlab1\bin\Debug\testlab1.pdb
+E:\ITI\Linq\testlab1\testlab1\obj\Debug\testlab1.csproj.AssemblyReference.cache
+E:\ITI\Linq\testlab1\testlab1\obj\Debug\testlab1.csproj.SuggestedBindingRedirects.cache
+E:\ITI\Linq\testlab1\testlab1\obj\Debug\testlab1.csproj.CoreCompileInputs.cache
+E:\ITI\Linq\testlab1\testlab1\obj\Debug\testlab1.exe
+E:\ITI\Linq\testlab1\testlab1\obj\Debug\testlab1.pdb
