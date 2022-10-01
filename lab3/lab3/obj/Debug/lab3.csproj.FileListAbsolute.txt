@@ -1,0 +1,16 @@
+E:\ITI\Linq\Day_3\lab3\lab3\bin\Debug\lab3.exe.config
+E:\ITI\Linq\Day_3\lab3\lab3\bin\Debug\lab3.exe
+E:\ITI\Linq\Day_3\lab3\lab3\bin\Debug\lab3.pdb
+E:\ITI\Linq\Day_3\lab3\lab3\bin\Debug\EntityFramework.dll
+E:\ITI\Linq\Day_3\lab3\lab3\bin\Debug\EntityFramework.SqlServer.dll
+E:\ITI\Linq\Day_3\lab3\lab3\bin\Debug\EntityFramework.xml
+E:\ITI\Linq\Day_3\lab3\lab3\bin\Debug\EntityFramework.SqlServer.xml
+E:\ITI\Linq\Day_3\lab3\lab3\obj\Debug\lab3.csproj.AssemblyReference.cache
+E:\ITI\Linq\Day_3\lab3\lab3\obj\Debug\lab3.csproj.SuggestedBindingRedirects.cache
+E:\ITI\Linq\Day_3\lab3\lab3\obj\Debug\lab3.Form1.resources
+E:\ITI\Linq\Day_3\lab3\lab3\obj\Debug\lab3.Properties.Resources.resources
+E:\ITI\Linq\Day_3\lab3\lab3\obj\Debug\lab3.csproj.GenerateResource.cache
+E:\ITI\Linq\Day_3\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+E:\ITI\Linq\Day_3\lab3\lab3\obj\Debug\lab3.csproj.CopyComplete
+E:\ITI\Linq\Day_3\lab3\lab3\obj\Debug\lab3.exe
+E:\ITI\Linq\Day_3\lab3\lab3\obj\Debug\lab3.pdb

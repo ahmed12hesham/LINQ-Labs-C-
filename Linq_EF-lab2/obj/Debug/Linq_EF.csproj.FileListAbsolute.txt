@@ -1,0 +1,8 @@
+C:\Bishoy\vs\Linq_EF\bin\Debug\Linq_EF.exe.config
+C:\Bishoy\vs\Linq_EF\bin\Debug\Linq_EF.exe
+C:\Bishoy\vs\Linq_EF\bin\Debug\Linq_EF.pdb
+C:\Bishoy\vs\Linq_EF\obj\Debug\Linq_EF.csproj.AssemblyReference.cache
+C:\Bishoy\vs\Linq_EF\obj\Debug\Linq_EF.csproj.SuggestedBindingRedirects.cache
+C:\Bishoy\vs\Linq_EF\obj\Debug\Linq_EF.csproj.CoreCompileInputs.cache
+C:\Bishoy\vs\Linq_EF\obj\Debug\Linq_EF.exe
+C:\Bishoy\vs\Linq_EF\obj\Debug\Linq_EF.pdb
